@@ -1,0 +1,30 @@
+.slider ion-col h4 {
+    margin-top: 0 !important;
+    margin-bottom: .5em !important;
+}
+
+.slider ion-col p {
+    font-size: .85em !important;
+    margin-top: 0 !important;
+    margin-bottom: .5em !important;
+}
+
+.swiper {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: scroll !important;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.swiper::-webkit-scrollbar {
+    display: none;
+}
+
+.swiper ion-col {
+    display: flex;
+    flex-wrap: nowrap;
+}

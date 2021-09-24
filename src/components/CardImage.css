@@ -1,0 +1,18 @@
+.seasonal {
+    padding: 0;
+}
+
+.seasonal ion-card {
+    position: relative;
+    box-shadow: none;
+    margin: 0;
+    border-radius: 0;
+    /* background-image: url("https://images.pexels.com/photos/3794940/pexels-photo-3794940.jpeg"); */
+    background-size: cover;
+}
+
+.seasonal ion-card ion-img {
+    height: 100vw;
+    width: 100vw;
+    object-fit: cover;
+}

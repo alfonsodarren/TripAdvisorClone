@@ -1,0 +1,41 @@
+.search-bar {
+  border: .1em solid #757575;
+  border-radius: 2em;
+  margin: 0 .75em;
+}
+
+.green {
+  background-color: #004F32;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.green h1 {
+  color: #FFFFFF;
+}
+
+h2.ion-padding-start {
+  font-weight: bold;
+}
+
+.search-place {
+  display: flex;
+  position: relative;
+  width: auto !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-place ion-img {
+  object-fit: cover;
+  width: 45vw !important;
+  height: 45vw !important;
+}
+
+.search-place ion-label {
+  padding-left: .5em;
+  padding-bottom: .5em;
+  font-size: x-large !important;
+  font-weight: bold !important;
+  /* letter-spacing: -.01em !important; */
+}

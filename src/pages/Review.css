@@ -1,0 +1,17 @@
+.review-card {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/def4e819299431.562d80d53417a.jpg");
+  background-size: cover;
+  padding: 5em !important;
+  margin-bottom: 0em;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.upload-card {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/7d56ff14955408.560377b8d283f.jpg");
+  background-size: cover;
+  padding: 5em !important;
+  margin-top: 0em;
+  border-radius: 0;
+  box-shadow: none;
+}

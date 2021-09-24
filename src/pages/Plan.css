@@ -1,0 +1,40 @@
+.trips {
+  background-color: var(--ion-color-white) !important;
+}
+
+.trips ion-item {
+  background-color: var(--ion-color-white) !important;
+  padding-top: .75em;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.trips ion-avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  border-radius: 10vw;
+  background-color: #004F32;
+}
+
+.trips ion-icon {
+  color: #FFFFFF !important;
+  font-size: 1.5em !important;
+}
+
+.segmentation ion-label {
+  text-transform: none;
+}
+
+.trip-name {
+  border: .1em solid #757575;
+  border-radius: .25em;
+  margin: 0 .75em;
+}
+
+.underline {
+  text-decoration: underline;
+}
